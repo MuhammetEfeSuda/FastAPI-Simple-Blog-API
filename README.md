@@ -37,8 +37,6 @@ A basic Blog API built using FastAPI. This API allows you to create, read, updat
     ```bash
     pip install -r requirements.txt
 
-
-
 ## Usage
 
 1. Run the FastAPI server:
